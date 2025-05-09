@@ -42,9 +42,22 @@ The **Indian Market Indices Dashboard** is a Streamlit-based web app that provid
 
 ---
 
-## 📦 Requirements
+## Installation
 
-Make sure to install the following Python packages:
+### Clone the Repository
+```sh
+git clone https://github.com/irikaishani/Indian-Market-Indices-Dashboard.git
+cd Indian-Market-Indices-Dashboard
+```
 
-```bash
-pip install streamlit pandas plotly requests
+### Create a Virtual Environment
+```sh
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+```
+
+### Install Dependencies
+```sh
+pip install -r requirements.txt
+```
+ 
