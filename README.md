@@ -60,4 +60,11 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 ```sh
 pip install -r requirements.txt
 ```
+
+### Start the Application
+```sh
+streamlit run app.py
+```
+
+
  
