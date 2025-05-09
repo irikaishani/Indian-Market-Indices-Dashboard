@@ -11,6 +11,7 @@
   <img src="https://img.shields.io/badge/UI-Built%20with%20Streamlit-orange" />
 </p>
 
+![Indian Market Dashboard](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjg3OTJzcXB1dnhoNTdkZnIzZWY2bG93YzNkbGp4MWNrZzN2ODZtdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/r1aL1Lk0rcQ3geX8mF/giphy.gif)
 ---
 
 ## 🚀 Project Overview
