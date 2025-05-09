@@ -66,5 +66,8 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
+## Acknowledgements
 
+- **Streamlit** for providing an easy-to-use web framework.
+- **Money Control API** for market data.
  
